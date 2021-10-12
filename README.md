@@ -1,4 +1,5 @@
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/apiAndrew-tesler=anuraghazra)](https://github.com/Andrew-tesler/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Tesler)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
