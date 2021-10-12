@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAndrew-tesler=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![AAndrew's GitHub stats](https://github-readme-stats.vercel.app/apiAndrew-tesler=anuraghazra)](https://github.com/Andrew-tesler/github-readme-stats)
 
 
 <!--
