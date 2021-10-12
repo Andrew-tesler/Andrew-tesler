@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-tesler&show_icons=true&theme=tokyonight)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andrew-tesler)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
