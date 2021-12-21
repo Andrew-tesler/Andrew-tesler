@@ -1,11 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-tesler&show_icons=true&theme=tokyonight)
-### Hi, I'm Andrew 
+### Welcome , I'm Andrew 🖖
 
 
-- 🔭 I’m currently working on home AirMonitoring device
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Indoors Air Quality monitoring. 
+- 🌱 I’m currently learning Python and EMT-P
 - 💬 Ask me about anything
-- ⚡ Fun fact: Iam also an EMT-I 🚑🚑
+- ⚡ Fun fact: I am also an EMT-I and an ambulance driver 🚑🚑
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-tesler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
