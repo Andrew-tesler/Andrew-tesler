@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on Indoors Air Quality monitoring. 
-- 🌱 I’m currently learning Python and EMT-P
+- 🌱 I’m currently learning Python
 - 💬 Ask me about anything
-- ⚡ Fun fact: I am also an EMT-I and an ambulance driver 🚑🚑
+- ⚡ Fun fact: I am also an EMT-P and an ambulance driver 🚑🚑
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-tesler&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
